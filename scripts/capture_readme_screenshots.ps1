@@ -112,9 +112,10 @@ try {
 
     $captures = @(
         @{ Name = "practice-01.png"; Tabs = 0 },
-        @{ Name = "practice-04.png"; Tabs = 3 },
-        @{ Name = "practice-06.png"; Tabs = 2 },
-        @{ Name = "practice-08.png"; Tabs = 2 },
+        @{ Name = "practice-02.png"; Tabs = 1 },
+        @{ Name = "practice-03.png"; Tabs = 1 },
+        @{ Name = "practice-07.png"; Tabs = 4 },
+        @{ Name = "practice-08.png"; Tabs = 1 },
         @{ Name = "practice-09.png"; Tabs = 1 }
     )
 

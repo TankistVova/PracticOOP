@@ -63,11 +63,14 @@ PracticHub — учебный desktop-проект на C++/CLI и Windows Forms
 ### Практика 1. Создание и проверка инцидента
 ![Практика 1](docs/screenshots/practice-01.png)
 
-### Практика 4. Наследование
-![Практика 4](docs/screenshots/practice-04.png)
+### Практика 2. Анализатор инцидентов
+![Практика 2](docs/screenshots/practice-02.png)
 
-### Практика 6. Композиция и ассоциации
-![Практика 6](docs/screenshots/practice-06.png)
+### Практика 3. Поиск инцидентов
+![Практика 3](docs/screenshots/practice-03.png)
+
+### Практика 7. Контроллер оплаты
+![Практика 7](docs/screenshots/practice-07.png)
 
 ### Практика 8. Приложение водителя
 ![Практика 8](docs/screenshots/practice-08.png)
