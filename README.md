@@ -61,22 +61,22 @@ PracticHub — учебный desktop-проект на C++/CLI и Windows Forms
 Ниже показаны ключевые экраны приложения, которые отображаются во вкладках PracticHub.
 
 ### Практика 1. Создание и проверка инцидента
-![Практика 1](docs/screenshots/practice-01.png)
+![Практика 1](docs/screenshots/practice-01-readme.png)
 
 ### Практика 2. Анализатор инцидентов
-![Практика 2](docs/screenshots/practice-02.png)
+![Практика 2](docs/screenshots/practice-02-readme.png)
 
 ### Практика 3. Поиск инцидентов
-![Практика 3](docs/screenshots/practice-03.png)
+![Практика 3](docs/screenshots/practice-03-readme.png)
 
 ### Практика 7. Контроллер оплаты
-![Практика 7](docs/screenshots/practice-07.png)
+![Практика 7](docs/screenshots/practice-07-readme.png)
 
 ### Практика 8. Приложение водителя
-![Практика 8](docs/screenshots/practice-08.png)
+![Практика 8](docs/screenshots/practice-08-readme.png)
 
 ### Практика 9. Логгирование
-![Практика 9](docs/screenshots/practice-09.png)
+![Практика 9](docs/screenshots/practice-09-readme.png)
 
 ## Структура репозитория
 
